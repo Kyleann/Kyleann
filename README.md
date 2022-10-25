@@ -10,7 +10,7 @@
 * 📱 React Native
 * 💻 Pyhton, Java, HTML 
 * 🌱 I’m currently learning **Java, SQL, React**
-* 💬 Ask me about **SQL*
+* 💬 Ask me about **SQL**
 * 📫 How to reach me **tutkuedibegayda@gmail**
 
 <h3 align="left">Connect with me:</h3>
