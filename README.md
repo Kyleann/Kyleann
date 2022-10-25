@@ -11,7 +11,7 @@
 * 💻 Pyhton, Java, HTML 
 * 🌱 I’m currently learning **Java, SQL, React**
 * 💬 Ask me about **SQL**
-* 📫 How to reach me **tutkuedibegayda@gmail**
+* 📫 How to reach me **tutkuedibegayda@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
